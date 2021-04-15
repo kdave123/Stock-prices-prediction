@@ -1,2 +1,5 @@
 # Stock-prices-prediction
-Predicting stock prices using Recurrent neural networks RNN/LSTM
+
+5 years S&P stock data
+
+Predicting stock prices using Recurrent neural networks RNN/LSTM (Deep learning)
